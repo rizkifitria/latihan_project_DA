@@ -1,2 +1,2 @@
 # latihan_project_DA
-Deploy dashboard ke dalam streamlit cloud
+Deploy dashboard ke streamlit cloud
